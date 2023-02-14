@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "amira",
+    "password": "Amiratilouch.30",
+    "database": "dbfilms",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+  
